@@ -1,0 +1,7 @@
+{
+  "numeric_tolerance": 1e-09,
+  "report_dir": "Documents/Excel_Comparisons",
+  "theme": "dark",
+  "primary_color": "#3b82f6",
+  "secondary_color": "#06b6d4"
+}

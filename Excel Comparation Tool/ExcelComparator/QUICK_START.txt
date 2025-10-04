@@ -1,0 +1,12 @@
+QUICK START
+-----------
+1) Windows: run `run.bat`
+   macOS/Linux: `chmod +x run.sh && ./run.sh`
+
+2) Pick your SSRS file and Power BI file.
+
+3) Enter a report filename (or use the default).
+
+4) Click 'Compare Files'.
+
+5) Open the report folder to view the Excel results.
